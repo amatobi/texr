@@ -1,0 +1,2 @@
+# texr
+texr development process 
